@@ -1,2 +1,3 @@
 # wqm
-Remote water quality monitor
+I'm Sudheera Gunasekara.
+
